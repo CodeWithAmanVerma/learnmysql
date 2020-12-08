@@ -36,7 +36,7 @@
 - Fetch all `customers` from the `customers` table which `country` not in 'USA' and 'France'.
 - Fetch all `customers` from the `customers` table which `country` is 'USA' or `country` is 'France' and creditlimit is greater than 100000.
 
-BETWEEN
+##BETWEEN
 
 - Fetch all `products` which `buyprice` BETWEEN 90 AND 100.
 - Fetch all `products` which `buyprice` NOT BETWEEN 20 AND 100.
